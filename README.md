@@ -7,4 +7,6 @@ It's a landing page for a futuristic bank.
 ## Instalattion
 
 1. Clone the repository on your local machine using the following command:
-#
+```
+git clone https://github.com/davimgfx/hoobank.git
+```
