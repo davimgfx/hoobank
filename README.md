@@ -1,7 +1,6 @@
 # Hoobank 🤖
 HooBank is a futuristic bank developed with React and Tailwind CSS. This project was created as a way to experiment with modern web development technologies, including the use of a UI library to speed up development. <br>
 Link: **https://davimgfx.github.io/hoobank/**
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
 ## Features
 It's a landing page for a futuristic bank.
