@@ -10,3 +10,21 @@ It's a landing page for a futuristic bank.
 ```
 git clone https://github.com/davimgfx/hoobank.git
 ```
+
+2. Navigate to the project directory:
+```
+cd hoo-bank
+```
+
+3. Install the project dependencies with the command:
+```
+npm install
+```
+*If you don't have Node.js installed on your machine, please download it from the official website: https://nodejs.org/en/download/*
+
+4. Start the local server with the command:
+```
+npm start
+```
+
+5. Access HooBank on your browser
