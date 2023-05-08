@@ -16,11 +16,11 @@ git clone https://github.com/davimgfx/hoobank.git
 cd hoo-bank
 ```
 
-3. Install the project dependencies with the command:
+3. Install the project dependencies with the command: <br>
+(*If you don't have Node.js installed on your machine, please download it from the official website: https://nodejs.org/en/download/*)
 ```
 npm install
 ```
-*If you don't have Node.js installed on your machine, please download it from the official website: https://nodejs.org/en/download/*
 
 4. Start the local server with the command:
 ```
