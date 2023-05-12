@@ -7,16 +7,18 @@ const GetStarted = () => (
       className={`${styles.flexCenter} flex-col bg-primary w-[100%] h-[100%] rounded-full`}>
       <div className={`${styles.flexStart} flex-row`}>
         <p className="font-poppins font-medium text-[18px] leading-[23px] mr-2">
-          <span className="text-white">Get</span>
+          <a href="https://davimgfx.github.io/loginHoobank/" target="_blanket"><span className="text-white">Get</span></a>
         </p>
-        <img
-          src={arrowUp}
-          alt="arrowUp"
-          className="w-[32px] h-[23px] object-contain"
-        />
+        <a href="https://davimgfx.github.io/loginHoobank/" target="_blanket">
+          <img
+            src={arrowUp}
+            alt="arrowUp"
+            className="w-[32px] h-[23px] object-contain"
+          />
+        </a>
       </div>
       <p className="font-poppins font-medium text-[18px] leading-[23px]">
-        <span className="text-white">Started</span>
+        <span className="text-white"><a href="https://davimgfx.github.io/loginHoobank/" target="_blank">Started</a></span>
       </p>
     </div>
   </div>
