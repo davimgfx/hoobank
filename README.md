@@ -14,7 +14,7 @@ git clone https://github.com/davimgfx/hoobank.git
 
 2. Navigate to the project directory:
 ```
-cd hoo-bank
+cd hoobank
 ```
 
 3. Install the project dependencies with the command: <br>
