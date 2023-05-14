@@ -32,4 +32,4 @@ npm start
 5. Access HooBank on your browser
 
 ## Credits
-This project was guided by *JavaScript Mastery tutorials*.
+This project was guided by *JavaScript Mastery tutorials* (he's the best).
