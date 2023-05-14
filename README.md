@@ -4,7 +4,8 @@ Link: **https://davimgfx.github.io/hoobank/** <br>  <br>
 If you want go to the Login page: <br>
 Link:  **https://davimgfx.github.io/loginHoobank//**
 ## Features
-It's a landing page for a futuristic bank.
+1. It's a landing page for a futuristic bank.
+2. If you click in "Get Started" you will go to the Login Page
 
 ## Instalattion
 
