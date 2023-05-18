@@ -1,10 +1,12 @@
 # Hoobank 🤖
 HooBank is a futuristic bank developed with React and Tailwind CSS. This project was created as a way to experiment with modern web development technologies, including the use of a UI library to speed up development. <br>
 Link: **https://davimgfx.github.io/hoobank/** <br>  <br>
-If you want go to the Login page: <br>
-Link:  **https://davimgfx.github.io/loginHoobank//**
+If you want to go to the Login page, click this link or click in "Get Started" in the project: <br>
+Link: **https://davimgfx.github.io/loginHoobank//** <br>
+How to use the Login Page: **https://github.com/davimgfx/loginHoobank**
 ## Features
-It's a landing page for a futuristic bank.
+1. It's a landing page for a futuristic bank.
+2. If you click in "Get Started" you will go to the Login Page
 
 ## Instalattion
 
@@ -32,4 +34,4 @@ npm start
 5. Access HooBank on your browser
 
 ## Credits
-This project was guided by *JavaScript Mastery tutorials*.
+This Landing page project was guided by *JavaScript Mastery tutorials*, and the Login page was build only by myself.
