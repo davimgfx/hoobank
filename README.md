@@ -34,4 +34,4 @@ npm start
 5. Access HooBank on your browser
 
 ## Credits
-This Landing page project was guided by *JavaScript Mastery tutorials*, but the Login page was build only by myself.
+This Landing page project was guided by *JavaScript Mastery tutorials*, and the Login page was build only by myself.
