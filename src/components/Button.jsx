@@ -1,5 +1,3 @@
-import React from "react";
-
 const Button = ({ styles }) => {
   return (
     <a href="https://davimgfx.github.io/loginHoobank/" target="_blank">
