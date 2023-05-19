@@ -23,9 +23,9 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Transfer money",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best way to transfer money varies based on individual needs and preferences.",
   },
   {
     id: "feature-2",
@@ -37,9 +37,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Request loan",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "A request for a loan can provide you with the financial means to purchase a wide range of items and fulfill your interests.",
   },
 ];
 
