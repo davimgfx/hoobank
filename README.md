@@ -2,36 +2,19 @@
 HooBank is a futuristic bank developed with React, Tailwind CSS and Vite.js. This project was created as a way to experiment with modern web development technologies, including the use of a UI library to speed up development. <br>
 Link: **https://davimgfx.github.io/hoobank/** <br>  <br>
 If you want to go to the Login page, click this link or click in "Get Started" in the project: <br>
-Link: **https://davimgfx.github.io/loginHoobank//** <br>
+Link: **https://davimgfx.github.io/loginHoobank/** <br>
 How to use the Login Page: **https://github.com/davimgfx/loginHoobank**
+
 ## Features
 1. It's a landing page for a futuristic bank.
 2. If you click in "Get Started" you will go to the Login Page
 
-## Instalattion
+## Screenshots of the Project
+### Landing page
+![Landing_page](https://github.com/davimgfx/hoobank/assets/118557337/b8a86793-56a1-4349-a451-90a65d2b6124)
+### Login page
+![Login page](https://github.com/davimgfx/hoobank/assets/118557337/1e366f24-d77a-4894-a2ef-bac6dab50776)
 
-1. Clone the repository on your local machine using the following command:
-```
-git clone https://github.com/davimgfx/hoobank.git
-```
-
-2. Navigate to the project directory:
-```
-cd hoobank
-```
-
-3. Install the project dependencies with the command: <br>
-(*If you don't have Node.js installed on your machine, please download it from the official website: https://nodejs.org/en/download/*)
-```
-npm install
-```
-
-4. Start the local server with the command:
-```
-npm start
-```
-
-5. Access HooBank on your browser
 
 ## Credits
 This Landing page project was guided by *JavaScript Mastery tutorials*, and the Login page was build only by myself.
