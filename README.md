@@ -4,6 +4,7 @@
 
 HooBank is a futuristic bank. This project was created as a way to experiment with modern web development technologies, including the use of a UI library to speed up development.
 
+👉 Live Demo: [Click here](https://davimgfx.github.io/hoobank/)
 
 ### Build with:
 
@@ -11,7 +12,6 @@ HooBank is a futuristic bank. This project was created as a way to experiment wi
  -  Tailwind <br />
  - Vite.js <br />
 
-👉 Live Demo: [Click here](https://davimgfx.github.io/hoobank/)
 
 If you want to go to the Login page, click this link or click "Get Started" in the project:
 
