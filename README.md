@@ -7,9 +7,9 @@ HooBank is a futuristic bank. This project was created as a way to experiment wi
 
 ### Build with:
 
-- React
-- Tailwind
-- Vite.js
+ -  React <br />
+ -  Tailwind <br />
+ - Vite.js <br />
 
 👉 Live Demo: [Click here](https://davimgfx.github.io/hoobank/)
 
