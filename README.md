@@ -1,7 +1,6 @@
-<div align='center'><img style="width:16%" src='https://github.com/davimgfx/loginHoobank/assets/118557337/37f8d896-0e0d-4dc0-b251-5b77d254e9d8'/></div>
+<div align='center'><img style="width:16%" src='https://github.com/davimgfx/hoobank/assets/118557337/9d3cae3b-a4b9-4972-8742-db8fe0871224'/></div>
 
 # Hoobank 🤖
-
 HooBank is a futuristic bank. This project was created as a way to experiment with modern web development technologies, including the use of a UI library to speed up development.
 
 👉 Live Demo: [Click here](https://davimgfx.github.io/hoobank/)
